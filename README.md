@@ -1,0 +1,4 @@
+dollarcoin
+==========
+
+Cryptocurrency coin
